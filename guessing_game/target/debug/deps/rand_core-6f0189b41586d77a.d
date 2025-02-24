@@ -1,0 +1,11 @@
+C:\Users\theoz\projects_rust\guessing_game\target\debug\deps\librand_core-6f0189b41586d77a.rmeta: C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\lib.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\block.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\impls.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\le.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\os.rs
+
+C:\Users\theoz\projects_rust\guessing_game\target\debug\deps\librand_core-6f0189b41586d77a.rlib: C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\lib.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\block.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\impls.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\le.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\os.rs
+
+C:\Users\theoz\projects_rust\guessing_game\target\debug\deps\rand_core-6f0189b41586d77a.d: C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\lib.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\block.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\impls.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\le.rs C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\os.rs
+
+C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\lib.rs:
+C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\block.rs:
+C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\impls.rs:
+C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\le.rs:
+C:\Users\theoz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.2\src\os.rs:
