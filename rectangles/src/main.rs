@@ -92,7 +92,7 @@ struct Rectangle {
     width: u32,
     height: u32,
 }
-
+//methods
 impl Rectangle {
     fn area(&self) -> u32 {
         self.width * self.height
